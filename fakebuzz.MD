@@ -14,8 +14,8 @@ Fakebuzz is a platform that provides barcode, qrcode management for clients.
 
 * Login and Register
 * Create barcode and qr code
-* Get barcode, qr code list, as well as exporting function
-* Notification box, for getting invoice info.
+* Get barcode, qr code list, as well as exporting them to a customised excel file.
+* Notification box, keep info such as files exported, get invoice in a a customised excel file.
 
 
 ## Demo
